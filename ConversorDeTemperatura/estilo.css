@@ -1,0 +1,64 @@
+body{
+    font-family: Arial;
+    background-color: #6A5ACD;
+}
+
+#container{
+    margin: 0 auto;
+    width: auto;
+    display: table;
+    text-align: center;
+}
+
+#convert{
+    margin-top: 2%;
+    background-color: #191970;
+    color: white;
+    
+}
+
+#clear{
+    margin-top: 2%;
+    background-color: aliceblue;
+    color: black;
+}
+
+#clear:hover{
+    background-color:	#E6E6FA ;
+}
+
+#convert:hover{
+    background-color: #483D8B;
+}
+
+h1{
+    font-family: 'Times New Roman';
+    color: white;
+    font-size: 2.5em;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    padding-right: 155px;
+    margin-top: 10px;
+    font-size: 1.5em;
+    font-family: Arial;
+    background-color: #E6E6FA;
+}
+
+button{
+    padding: 10px;
+    font-size: 1.2em;
+    color: white;
+    border-radius: 55%;
+    margin: 5%;
+}
+
+footer{
+    background-color: #191970;
+    color: white;
+    text-align: center;
+    font-size:0.5em; 
+    margin-top: 12%;
+}
